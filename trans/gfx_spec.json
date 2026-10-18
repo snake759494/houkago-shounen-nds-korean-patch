@@ -1,0 +1,1906 @@
+[
+{
+"snap": "name",
+"eng": "B",
+"rect": [
+24,
+24,
+42,
+12
+],
+"text": "이름"
+},
+{
+"snap": "name",
+"eng": "B",
+"rect": [
+24,
+64,
+42,
+12
+],
+"text": "별명"
+},
+{
+"snap": "name",
+"eng": "B",
+"rect": [
+24,
+104,
+42,
+12
+],
+"text": "반"
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+87,
+14,
+42,
+12
+],
+"text": "이름"
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+38,
+50,
+28,
+13
+],
+"text": "한글1",
+"font": 9
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+70,
+50,
+28,
+13
+],
+"text": "한글2",
+"font": 9
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+206,
+50,
+28,
+13
+],
+"text": "소문자",
+"font": 9
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+218,
+77,
+28,
+13
+],
+"text": "기본값",
+"font": 9
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+218,
+149,
+28,
+14
+],
+"text": "결정"
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+22,
+178,
+30,
+13
+],
+"text": "선택",
+"font": 9,
+"align": "l",
+"objs": [
+11
+]
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+69,
+178,
+24,
+13
+],
+"text": "입력",
+"font": 9,
+"objs": [
+9
+]
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+100,
+178,
+27,
+13
+],
+"text": "결정",
+"font": 9,
+"objs": [
+8
+]
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+148,
+178,
+31,
+13
+],
+"text": "지움",
+"font": 9,
+"objs": [
+4
+]
+},
+{
+"snap": "name",
+"eng": "A",
+"rect": [
+186,
+178,
+26,
+13
+],
+"text": "뒤로",
+"font": 9,
+"objs": [
+3
+]
+},
+{
+"snap": "title",
+"eng": "A",
+"rect": [
+60,
+90,
+128,
+12
+],
+"text": "화면을 터치하세요"
+},
+{
+"snap": "filesel2",
+"eng": "B",
+"rect": [
+10,
+5,
+165,
+13
+],
+"text": "데이터 파일을 선택하세요"
+},
+{
+"snap": "filesel2",
+"eng": "A",
+"rect": [
+22,
+178,
+30,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "filesel2",
+"eng": "A",
+"rect": [
+70,
+178,
+30,
+13
+],
+"text": "결정",
+"font": 9
+},
+{
+"snap": "filesel2",
+"eng": "A",
+"rect": [
+118,
+178,
+30,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+16,
+81,
+42,
+12
+],
+"text": "소지품",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+60,
+81,
+46,
+12
+],
+"text": "컬렉션",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+113,
+81,
+46,
+12
+],
+"text": "앨범",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+61,
+129,
+46,
+12
+],
+"text": "친구메모",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+112,
+129,
+46,
+12
+],
+"text": "대전메모",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+160,
+129,
+46,
+12
+],
+"text": "시간설정",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+70,
+178,
+30,
+13
+],
+"text": "결정",
+"font": 9
+},
+{
+"snap": "menuX",
+"eng": "A",
+"rect": [
+104,
+178,
+64,
+13
+],
+"text": "메뉴 닫기",
+"font": 9
+},
+{
+"snap": "m_item",
+"eng": "A",
+"rect": [
+128,
+5,
+95,
+13
+],
+"text": "소지품",
+"font": 11
+},
+{
+"snap": "m_item",
+"eng": "A",
+"rect": [
+22,
+178,
+30,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "m_item",
+"eng": "A",
+"rect": [
+70,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "s_coll",
+"eng": "A",
+"rect": [
+30,
+77,
+54,
+12
+],
+"text": "우유뚜껑",
+"font": 9,
+"style": "outline",
+"objs": [
+3,
+4,
+5,
+24,
+25
+]
+},
+{
+"snap": "s_coll",
+"eng": "A",
+"rect": [
+97,
+77,
+32,
+12
+],
+"text": "딱지",
+"font": 9,
+"style": "outline",
+"objs": [
+7,
+8,
+28,
+29
+]
+},
+{
+"snap": "s_coll",
+"eng": "A",
+"rect": [
+80,
+126,
+64,
+26
+],
+"text": "슈퍼카",
+"font": 9,
+"style": "outline",
+"objs": [
+10,
+11,
+12,
+13,
+14,
+15,
+32,
+33
+]
+},
+{
+"snap": "s_coll",
+"eng": "A",
+"rect": [
+146,
+132,
+44,
+12
+],
+"text": "과자가게",
+"font": 9,
+"style": "outline",
+"objs": [
+17,
+18,
+20,
+21,
+36,
+37
+]
+},
+{
+"snap": "s_coll",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "결정",
+"font": 9
+},
+{
+"snap": "s_coll",
+"eng": "A",
+"rect": [
+120,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "m_album",
+"eng": "A",
+"rect": [
+10,
+5,
+120,
+13
+],
+"text": "앨범",
+"font": 11
+},
+{
+"snap": "s_coll",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "m_album",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "m_album",
+"eng": "A",
+"rect": [
+70,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "m_friend",
+"eng": "A",
+"rect": [
+8,
+5,
+115,
+13
+],
+"text": "친구 메모",
+"font": 11
+},
+{
+"snap": "m_friend",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "m_friend",
+"eng": "A",
+"rect": [
+72,
+178,
+52,
+13
+],
+"text": "메모 보기",
+"font": 9
+},
+{
+"snap": "m_friend",
+"eng": "A",
+"rect": [
+148,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "m_vs",
+"eng": "A",
+"rect": [
+85,
+5,
+90,
+13
+],
+"text": "레이스",
+"font": 11
+},
+{
+"snap": "m_vs",
+"eng": "A",
+"rect": [
+9,
+108,
+20,
+13
+],
+"text": "승",
+"font": 11
+},
+{
+"snap": "m_vs",
+"eng": "A",
+"rect": [
+9,
+127,
+20,
+13
+],
+"text": "패",
+"font": 11
+},
+{
+"snap": "m_vs",
+"eng": "A",
+"rect": [
+9,
+148,
+20,
+13
+],
+"text": "무",
+"font": 11
+},
+{
+"snap": "m_vs",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "m_vs",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "m_time",
+"eng": "A",
+"rect": [
+157,
+25,
+50,
+13
+],
+"text": "느리게",
+"font": 11
+},
+{
+"snap": "m_time",
+"eng": "A",
+"rect": [
+157,
+49,
+50,
+13
+],
+"text": "보통",
+"font": 11
+},
+{
+"snap": "m_time",
+"eng": "A",
+"rect": [
+157,
+74,
+50,
+13
+],
+"text": "빠르게",
+"font": 11
+},
+{
+"snap": "m_time",
+"eng": "A",
+"rect": [
+36,
+90,
+50,
+13
+],
+"text": "시간 설정",
+"font": 11
+},
+{
+"snap": "m_time",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "m_time",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "결정",
+"font": 9
+},
+{
+"snap": "m_time",
+"eng": "A",
+"rect": [
+120,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "m_vs1",
+"eng": "A",
+"rect": [
+85,
+5,
+90,
+13
+],
+"text": "스모",
+"font": 11
+},
+{
+"snap": "m_vs2",
+"eng": "A",
+"rect": [
+85,
+5,
+90,
+13
+],
+"text": "딱지",
+"font": 11
+},
+{
+"snap": "nm_tab3",
+"eng": "A",
+"rect": [
+38,
+50,
+28,
+13
+],
+"text": "한글1",
+"font": 9
+},
+{
+"snap": "nm_tab3",
+"eng": "A",
+"rect": [
+70,
+50,
+28,
+13
+],
+"text": "한글2",
+"font": 9
+},
+{
+"snap": "nm_aa",
+"eng": "A",
+"rect": [
+206,
+50,
+28,
+13
+],
+"text": "소문자",
+"font": 9
+},
+{
+"snap": "nm_small",
+"eng": "A",
+"rect": [
+206,
+50,
+28,
+13
+],
+"text": "대문자",
+"font": 9
+},
+{
+"snap": "nm_cur",
+"eng": "A",
+"rect": [
+218,
+149,
+28,
+14
+],
+"text": "결정",
+"font": 11
+},
+{
+"snap": "nm_nick",
+"eng": "B",
+"rect": [
+24,
+24,
+42,
+12
+],
+"text": "이름",
+"font": 11
+},
+{
+"snap": "nm_nick",
+"eng": "B",
+"rect": [
+24,
+64,
+42,
+12
+],
+"text": "별명",
+"font": 11
+},
+{
+"snap": "nm_nick",
+"eng": "A",
+"rect": [
+87,
+14,
+42,
+12
+],
+"text": "별명",
+"font": 11
+},
+{
+"snap": "nm_class",
+"eng": "B",
+"rect": [
+24,
+64,
+42,
+12
+],
+"text": "별명",
+"font": 11
+},
+{
+"snap": "nm_class",
+"eng": "B",
+"rect": [
+24,
+104,
+42,
+12
+],
+"text": "반",
+"font": 11
+},
+{
+"snap": "nm_class",
+"eng": "A",
+"rect": [
+113,
+14,
+40,
+12
+],
+"text": "반",
+"font": 11
+},
+{
+"snap": "nm_class",
+"eng": "A",
+"rect": [
+206,
+115,
+28,
+14
+],
+"text": "결정",
+"font": 11
+},
+{
+"snap": "nm_yes",
+"eng": "A",
+"rect": [
+63,
+104,
+48,
+11
+],
+"text": "예",
+"font": 11
+},
+{
+"snap": "nm_yes",
+"eng": "A",
+"rect": [
+150,
+104,
+42,
+11
+],
+"text": "아니오",
+"font": 11
+},
+{
+"snap": "nm_no",
+"eng": "A",
+"rect": [
+63,
+104,
+48,
+11
+],
+"text": "예",
+"font": 11
+},
+{
+"snap": "nm_no",
+"eng": "A",
+"rect": [
+150,
+104,
+42,
+11
+],
+"text": "아니오",
+"font": 11
+},
+{
+"snap": "s_coll_milk",
+"eng": "A",
+"rect": [
+120,
+5,
+134,
+13
+],
+"text": "우유뚜껑 컬렉션",
+"font": 11
+},
+{
+"snap": "s_coll_milk",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "s_coll_milk",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "s_coll_arare",
+"eng": "A",
+"rect": [
+120,
+5,
+134,
+13
+],
+"text": "과자가게 컬렉션",
+"font": 11
+},
+{
+"snap": "s_coll_arare",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "s_coll_arare",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "s_coll_menko",
+"eng": "A",
+"rect": [
+130,
+5,
+120,
+13
+],
+"text": "딱지",
+"font": 11
+},
+{
+"snap": "s_coll_car",
+"eng": "A",
+"rect": [
+8,
+5,
+118,
+13
+],
+"text": "슈퍼카 지우개",
+"font": 11
+},
+{
+"snap": "s_coll_menko",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "s_coll_menko",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "s_coll_menko",
+"eng": "A",
+"rect": [
+130,
+178,
+36,
+13
+],
+"text": "도움말",
+"font": 9
+},
+{
+"snap": "s_coll_menko",
+"eng": "A",
+"rect": [
+185,
+178,
+30,
+13
+],
+"text": "설명",
+"font": 9,
+"objs": [
+50
+]
+},
+{
+"snap": "s_coll_car",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "s_coll_car",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "s_coll_car",
+"eng": "A",
+"rect": [
+131,
+178,
+36,
+13
+],
+"text": "도움말",
+"font": 9
+},
+{
+"snap": "s_coll_car",
+"eng": "A",
+"rect": [
+185,
+178,
+30,
+13
+],
+"text": "설명",
+"font": 9,
+"objs": [
+50
+]
+},
+{
+"snap": "s_time_slow",
+"eng": "A",
+"rect": [
+157,
+25,
+50,
+13
+],
+"text": "느리게",
+"font": 11
+},
+{
+"snap": "s_time_slow",
+"eng": "A",
+"rect": [
+157,
+49,
+50,
+13
+],
+"text": "보통",
+"font": 11
+},
+{
+"snap": "s_time_slow",
+"eng": "A",
+"rect": [
+157,
+74,
+50,
+13
+],
+"text": "빠르게",
+"font": 11
+},
+{
+"snap": "s_time_fast",
+"eng": "A",
+"rect": [
+157,
+25,
+50,
+13
+],
+"text": "느리게",
+"font": 11
+},
+{
+"snap": "s_time_fast",
+"eng": "A",
+"rect": [
+157,
+74,
+50,
+13
+],
+"text": "빠르게",
+"font": 11
+},
+{
+"snap": "s_time_slow",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "s_time_slow",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "결정",
+"font": 9
+},
+{
+"snap": "s_time_slow",
+"eng": "A",
+"rect": [
+120,
+178,
+28,
+13
+],
+"text": "뒤로",
+"font": 9
+},
+{
+"snap": "s_save",
+"eng": "B",
+"rect": [
+4,
+4,
+186,
+15
+],
+"text": "오늘을 기록합니다",
+"font": 11
+},
+{
+"snap": "s_save2",
+"eng": "B",
+"rect": [
+4,
+4,
+186,
+15
+],
+"text": "오늘을 기록합니다",
+"font": 11
+},
+{
+"snap": "s_save2",
+"eng": "A",
+"rect": [
+63,
+104,
+46,
+11
+],
+"text": "예",
+"font": 11
+},
+{
+"snap": "s_save2",
+"eng": "A",
+"rect": [
+150,
+104,
+42,
+11
+],
+"text": "아니오",
+"font": 11
+},
+{
+"snap": "s_save2",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "s_save2",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "결정",
+"font": 9
+},
+{
+"snap": "s_save2",
+"eng": "A",
+"rect": [
+121,
+178,
+50,
+13
+],
+"text": "취소",
+"font": 9
+},
+{
+"snap": "mp_map",
+"eng": "B",
+"rect": [
+40,
+178,
+30,
+13
+],
+"text": "축소",
+"font": 9,
+"objs": [
+14
+]
+},
+{
+"snap": "mp_map",
+"eng": "B",
+"rect": [
+98,
+178,
+30,
+13
+],
+"text": "저장",
+"font": 9,
+"objs": [
+9
+]
+},
+{
+"snap": "mp_map",
+"eng": "B",
+"rect": [
+152,
+178,
+40,
+13
+],
+"text": "메뉴",
+"font": 9,
+"objs": [
+11,
+8
+]
+},
+{
+"snap": "mp_map",
+"eng": "B",
+"rect": [
+167,
+62,
+26,
+11
+],
+"text": "여기",
+"font": 9
+},
+{
+"snap": "mp_zoom",
+"eng": "B",
+"rect": [
+40,
+178,
+30,
+13
+],
+"text": "확대",
+"font": 9,
+"objs": [
+9
+]
+},
+{
+"snap": "mp_zoom",
+"eng": "B",
+"rect": [
+135,
+83,
+26,
+11
+],
+"text": "여기",
+"font": 9
+},
+{
+"snap": "mp_save_no",
+"eng": "A",
+"rect": [
+63,
+104,
+46,
+11
+],
+"text": "예",
+"font": 11
+},
+{
+"snap": "mp_save_no",
+"eng": "A",
+"rect": [
+150,
+104,
+42,
+11
+],
+"text": "아니오",
+"font": 11
+},
+{
+"snap": "mp_save_yes",
+"eng": "A",
+"rect": [
+63,
+104,
+46,
+11
+],
+"text": "예",
+"font": 11
+},
+{
+"snap": "mp_save_yes",
+"eng": "A",
+"rect": [
+150,
+104,
+42,
+11
+],
+"text": "아니오",
+"font": 11
+},
+{
+"snap": "mp_zoom",
+"eng": "B",
+"rect": [
+98,
+178,
+30,
+13
+],
+"text": "저장",
+"font": 9,
+"objs": [
+11
+]
+},
+{
+"snap": "mp_zoom",
+"eng": "B",
+"rect": [
+152,
+178,
+40,
+13
+],
+"text": "메뉴",
+"font": 9,
+"objs": [
+13,
+10
+]
+},
+{
+"snap": "mp_save_no",
+"eng": "A",
+"rect": [
+25,
+178,
+27,
+13
+],
+"text": "선택",
+"font": 9
+},
+{
+"snap": "mp_save_no",
+"eng": "A",
+"rect": [
+72,
+178,
+28,
+13
+],
+"text": "결정",
+"font": 9
+},
+{
+"snap": "mp_save_no",
+"eng": "A",
+"rect": [
+121,
+178,
+50,
+13
+],
+"text": "취소",
+"font": 9
+},
+{
+"snap": "nb1",
+"eng": "A",
+"rect": [
+34,
+26,
+64,
+14
+],
+"text": "이야기",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb1",
+"eng": "A",
+"rect": [
+34,
+58,
+64,
+14
+],
+"text": "데이터삭제",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb1",
+"eng": "A",
+"rect": [
+34,
+90,
+64,
+14
+],
+"text": "시간 설정",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb1",
+"eng": "A",
+"rect": [
+34,
+122,
+64,
+14
+],
+"text": "카드",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb2",
+"eng": "A",
+"rect": [
+34,
+26,
+64,
+14
+],
+"text": "이야기",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb2",
+"eng": "A",
+"rect": [
+34,
+58,
+64,
+14
+],
+"text": "데이터삭제",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb2",
+"eng": "A",
+"rect": [
+34,
+90,
+64,
+14
+],
+"text": "시간 설정",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb2",
+"eng": "A",
+"rect": [
+34,
+122,
+64,
+14
+],
+"text": "카드",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb3",
+"eng": "A",
+"rect": [
+34,
+26,
+64,
+14
+],
+"text": "이야기",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb3",
+"eng": "A",
+"rect": [
+34,
+58,
+64,
+14
+],
+"text": "데이터삭제",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb3",
+"eng": "A",
+"rect": [
+34,
+90,
+64,
+14
+],
+"text": "시간 설정",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb3",
+"eng": "A",
+"rect": [
+34,
+122,
+64,
+14
+],
+"text": "카드",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb4",
+"eng": "A",
+"rect": [
+34,
+26,
+64,
+14
+],
+"text": "이야기",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb4",
+"eng": "A",
+"rect": [
+34,
+58,
+64,
+14
+],
+"text": "데이터삭제",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb4",
+"eng": "A",
+"rect": [
+34,
+90,
+64,
+14
+],
+"text": "시간 설정",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb4",
+"eng": "A",
+"rect": [
+34,
+122,
+64,
+14
+],
+"text": "카드",
+"font": 11,
+"align": "l",
+"dx": 2,
+"fgdark": true
+},
+{
+"snap": "nb1",
+"eng": "B",
+"rect": [
+8,
+5,
+180,
+13
+],
+"text": "항목을 선택하세요",
+"font": 11
+},
+{
+"snap": "nb_card",
+"eng": "B",
+"rect": [
+8,
+5,
+225,
+13
+],
+"text": "가진 카드를 확인할 수 있습니다",
+"font": 11
+},
+{
+"snap": "nb_card",
+"eng": "A",
+"rect": [
+130,
+5,
+120,
+13
+],
+"text": "카드",
+"font": 11
+},
+{
+"snap": "sv_saving",
+"eng": "A",
+"rect": [
+17,
+33,
+103,
+95
+],
+"text": "",
+"font": 11
+},
+{
+"snap": "sv_saving",
+"eng": "A",
+"rect": [
+19,
+36,
+100,
+13
+],
+"text": "저장하는 중…",
+"font": 11,
+"align": "l",
+"fgdark": true
+},
+{
+"snap": "sv_saving",
+"eng": "A",
+"rect": [
+19,
+68,
+100,
+13
+],
+"text": "ＤＳ 전원을",
+"font": 11,
+"align": "l",
+"fgdark": true
+},
+{
+"snap": "sv_saving",
+"eng": "A",
+"rect": [
+19,
+84,
+100,
+13
+],
+"text": "끄거나",
+"font": 11,
+"align": "l",
+"fgdark": true
+},
+{
+"snap": "sv_saving",
+"eng": "A",
+"rect": [
+19,
+100,
+100,
+13
+],
+"text": "ＤＳ카드를 빼거나",
+"font": 11,
+"align": "l",
+"fgdark": true
+},
+{
+"snap": "sv_saving",
+"eng": "A",
+"rect": [
+19,
+116,
+100,
+13
+],
+"text": "하지 마세요",
+"font": 11,
+"align": "l",
+"fgdark": true
+},
+{
+"snap": "sv_saving",
+"eng": "A",
+"rect": [
+121,
+178,
+50,
+13
+],
+"text": "취소",
+"font": 9
+}
+]

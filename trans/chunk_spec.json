@@ -1,0 +1,202 @@
+[
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 22,
+"chunks": [
+30
+],
+"rect": [
+8,
+2,
+16,
+13
+],
+"text": "소",
+"bg": 14,
+"fg": 1
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 22,
+"chunks": [
+32
+],
+"rect": [
+8,
+2,
+16,
+13
+],
+"text": "중",
+"bg": 14,
+"fg": 1
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 22,
+"chunks": [
+34
+],
+"rect": [
+8,
+2,
+16,
+13
+],
+"text": "대",
+"bg": 14,
+"fg": 1
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 22,
+"chunks": [
+36
+],
+"rect": [
+8,
+2,
+16,
+13
+],
+"text": "각",
+"bg": 14,
+"fg": 1
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 22,
+"chunks": [
+45
+],
+"rect": [
+1,
+2,
+30,
+12
+],
+"text": "설명",
+"ink": "light",
+"font": 9
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 18,
+"chunks": [
+22
+],
+"rect": [
+3,
+2,
+26,
+12
+],
+"text": "승",
+"font": 11
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 18,
+"chunks": [
+23
+],
+"rect": [
+3,
+2,
+26,
+12
+],
+"text": "패",
+"font": 11
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 18,
+"chunks": [
+24
+],
+"rect": [
+3,
+2,
+26,
+12
+],
+"text": "패",
+"font": 11
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 18,
+"chunks": [
+26
+],
+"rect": [
+3,
+2,
+26,
+12
+],
+"text": "무",
+"font": 11
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 26,
+"chunks": [
+22
+],
+"rect": [
+3,
+2,
+26,
+12
+],
+"text": "승",
+"font": 11
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 26,
+"chunks": [
+23
+],
+"rect": [
+3,
+2,
+26,
+12
+],
+"text": "패",
+"font": 11
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 26,
+"chunks": [
+28
+],
+"rect": [
+3,
+2,
+26,
+12
+],
+"text": "패",
+"font": 11
+},
+{
+"file": "main_menu_asobi_data_LZ.dec",
+"item": 26,
+"chunks": [
+24
+],
+"rect": [
+3,
+2,
+26,
+12
+],
+"text": "무",
+"font": 11
+}
+]
