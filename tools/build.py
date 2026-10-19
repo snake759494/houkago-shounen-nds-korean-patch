@@ -120,7 +120,12 @@ for fid in range(len(rom.files)):
   except Exception:d=bytearray(raw);comp=False
   ds,sz,strs=parse(bytes(d));end=ds+sz;app=bytearray()
   for o,t,refs in strs:
-    if t not in WSU:continue
+    if t not in WSU:
+      # 앞에 잡음 바이트가 붙은 경우: 원고에 있는 가장 긴 뒷부분으로 매칭
+      sub=next((t[i:] for i in range(1,len(t)) if t[i:] in WSU),None)
+      if not sub:continue
+      o+=len(t[:len(t)-len(sub)].encode('cp932',errors='replace'));t=sub
+      refs=[q for q in range(0x200,ds-2) if d[q] in (0xb8,0xb9,0xba,0xbb,0xbe,0xbf,0x68) and struct.unpack_from('<H',d,q+1)[0]==o]
     nb=enc(WSU[t])+b'\0';ob=len(t.encode('cp932'))
     a=ds+o;cap=ob+1
     if len(refs)!=1:

@@ -113,7 +113,7 @@ def apply_spec(spec):
     if miss:print('경고: 영역 밖 픽셀',miss,sp['text'])
     # 바뀐 타일 -> 파일 위치
     tb=32
-    changed=sorted({(a//tb)*tb for (a,n,o) in own.values()})
+    changed=sorted({(a//tb)*tb for (a,n,o) in own.values() if vram[(a//tb)*tb:(a//tb)*tb+tb]!=orig[(a//tb)*tb:(a//tb)*tb+tb]})
     # 객체/BG 전체 블록으로 위치 결정
     objbase={}
     if layer=='obj':
@@ -155,10 +155,17 @@ def apply_spec(spec):
 if __name__=='__main__':
   spec=json.load(open(W/'trans/gfx_spec.json',encoding='utf8'))
   old={}
-  q=W/'trans/gfx_patches.json'
+  q=W/'trans/gfx_patches_v100.json'
   if q.exists():old={(n,o):bytes.fromhex(h) for n,o,h in json.load(open(q))}
   avail=[sp for sp in spec if (W/'snaps'/sp['snap']/'ioA.bin').exists()]
   print('스냅샷 있는 사양',len(avail),'/',len(spec))
   P=old;P.update(apply_spec(avail))
+  import wdff
+  bases={}
+  for n in {n for n,o in P}:
+    it=wdff.items(files()[n]);bases[n]=[(a+4,a+4+len(d)) for k,kind,a,h,d in it if kind=='tile']
+  bad=[(n,o) for (n,o) in P if not any(s0<=o<e0 and (o-s0)%32==0 for s0,e0 in bases[n])]
+  for k in bad:P.pop(k)
+  print('정렬 어긋난 패치 제거',len(bad),bad[:5])
   json.dump([[n,o,b.hex()] for (n,o),b in sorted(P.items())],open(W/'trans/gfx_patches.json','w'),indent=0)
   print('패치 타일',len(P))
